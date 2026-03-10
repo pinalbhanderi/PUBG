@@ -66,3 +66,8 @@ R2 Score: 0.92
 ---
 
 ## Project Files
+## Project Files
+
+- **Pubg.ipynb** : Jupyter notebook containing data preprocessing, EDA, model building and hyperparameter tuning  
+- **sample_dataset.csv** : Sample dataset used in the project  
+- **README.md** : Project description and documentation
